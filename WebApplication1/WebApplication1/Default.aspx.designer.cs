@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _1664sln
+namespace WebApplication1
 {
 
 
